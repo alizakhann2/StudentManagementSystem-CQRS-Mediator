@@ -1,0 +1,1 @@
+# StudentManagementSystem-CQRS-Mediator
